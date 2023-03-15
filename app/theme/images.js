@@ -1,0 +1,15 @@
+export const images = {
+  apps: require("../../assets/images/apps.png"),
+  circle: require("../../assets/images/circle.png"),
+  graphic_design: require("../../assets/images/graphic_design.png"),
+  illustrations: require("../../assets/images/illustrations.png"),
+  motionGraphics: require("../../assets/images/motion graphics.png"),
+  photography: require("../../assets/images/photography.png"),
+  uiUx: require("../../assets/images/ui_ux.png"),
+  womanBG: require("../../assets/images/woman bg.png"),
+  womanBG2: require("../../assets/images/woman bg2.png"),
+  left1: require("../../assets/images/left_1.png"),
+  left2: require("../../assets/images/left_2.png"),
+  right1: require("../../assets/images/right_1.png"),
+  right2: require("../../assets/images/right_2.png"),
+};
